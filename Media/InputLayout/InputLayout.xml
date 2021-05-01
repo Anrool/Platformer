@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<binding title="RIGHT" key="3" />
+<binding title="LEFT" key="0" />
+<binding title="UP" key="22" />
+<binding title="DOWN" key="18" />
+<binding title="SHOOT" key="57" />

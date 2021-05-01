@@ -1,0 +1,9 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Runner.png" transparentColor="FFFFFF">
+ <animation title="RunnerWalk" delay="150">
+  <cut w="48" x="5" y="4" h="50" row="1" col="1"/>
+  <cut w="47" x="58" y="5" h="50" row="1" col="1"/>
+  <cut w="48" x="110" y="3" h="50" row="1" col="1"/>
+  <cut w="47" x="165" y="6" h="48" row="1" col="1"/>
+ </animation>
+</sprites>

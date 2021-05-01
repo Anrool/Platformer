@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Archer.png" transparentColor="94B0BE">
+ <animation title="Archer" delay="150">
+  <cut w="77" x="402" y="11" h="62" row="1" col="1"/>
+ </animation>
+</sprites>

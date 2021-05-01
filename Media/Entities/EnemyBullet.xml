@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Bullet.png" transparentColor="3F48CC">
+ <animation title="EnemyBullet" delay="150">
+  <cut w="10" x="7" y="10" h="10" row="1" col="1"/>
+ </animation>
+</sprites>

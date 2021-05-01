@@ -1,0 +1,34 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Raven.png" transparentColor="">
+ <animation title="RavenSpeak" delay="150">
+  <cut w="137" x="350" y="124" h="292" row="1" col="1"/>
+  <cut w="138" x="672" y="124" h="292" row="1" col="1"/>
+  <cut w="138" x="195" y="126" h="292" row="1" col="1"/>
+  <cut w="138" x="512" y="126" h="292" row="1" col="1"/>
+  <cut w="138" x="35" y="127" h="292" row="1" col="1"/>
+ </animation>
+ <animation title="RavenLook" delay="120">
+  <cut w="138" x="720" y="549" h="292" row="1" col="1"/>
+  <cut w="138" x="892" y="548" h="292" row="1" col="1"/>
+  <cut w="138" x="1050" y="551" h="292" row="1" col="1"/>
+  <cut w="153" x="1214" y="551" h="292" row="1" col="1"/>
+  <cut w="170" x="1383" y="552" h="292" row="1" col="1"/>
+  <cut w="153" x="1214" y="551" h="292" row="1" col="1"/>
+  <cut w="138" x="1050" y="551" h="292" row="1" col="1"/>
+  <cut w="138" x="892" y="548" h="292" row="1" col="1"/>
+  <cut w="138" x="720" y="549" h="292" row="1" col="1"/>
+ </animation>
+ <animation title="RavenTurn" delay="80">
+  <cut w="320" x="28" y="1780" h="235" row="1" col="1"/>
+  <cut w="289" x="380" y="1782" h="214" row="1" col="1"/>
+  <cut w="227" x="744" y="1788" h="197" row="1" col="1"/>
+  <cut w="306" x="1060" y="1796" h="184" row="1" col="1"/>
+ </animation>
+ <animation title="RavenFly" delay="200">
+  <cut w="343" x="31" y="2141" h="246" row="1" col="1"/>
+  <cut w="344" x="415" y="2157" h="223" row="1" col="1"/>
+  <cut w="345" x="780" y="2171" h="205" row="1" col="1"/>
+  <cut w="345" x="1162" y="2166" h="165" row="1" col="1"/>
+  <cut w="344" x="1548" y="2169" h="168" row="1" col="1"/>
+ </animation>
+</sprites>

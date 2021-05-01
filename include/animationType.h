@@ -1,0 +1,38 @@
+#ifndef ANIMATIONTYPE_H
+#define ANIMATIONTYPE_H
+
+enum class ANIMATION_TYPE {
+  // Stitch
+  STAND,
+  WALK,
+  JUMP,
+  SHOOT,
+  CRAWL,
+  SPIN,
+  HURT,
+  DEAD,
+  FALL,
+  CLIMB,
+  IDLE,
+
+  // Enemies
+  RUNNER,
+  ARCHER,
+
+  // Bullets
+  ALLIED_BULLET,
+  ENEMY_BULLET,
+  EXPLODED_BULLET,
+
+  PLATFORM,
+
+  // Raven
+  RAVEN_SPEAK,
+  RAVEN_LOOK,
+  RAVEN_TURN,
+  RAVEN_FLY,
+
+  NONE
+};
+
+#endif // ANIMATIONTYPE_H

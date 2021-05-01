@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Transporter.png" transparentColor="3F48CC">
+ <animation title="Transporter" delay="500">
+  <cut w="95" x="0" y="0" h="22" row="1" col="1"/>
+ </animation>
+</sprites>
